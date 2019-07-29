@@ -2,62 +2,74 @@
     {
       "id": 1,
       "name": "Darth Vader",
-      "image": "http://aux.iconspalace.com/uploads/1661185554510146655.png"
+      "image": "http://aux.iconspalace.com/uploads/1661185554510146655.png",
+      "selected": false
     },
     {
       "id": 2,
       "name": "Yoda",
-      "image": "https://i.pinimg.com/originals/7a/f3/03/7af3035dd777c2fa81b1bc862f5c5a90.png"
+      "image": "https://i.pinimg.com/originals/7a/f3/03/7af3035dd777c2fa81b1bc862f5c5a90.png",
+      "selected": false
     },
     {
       "id": 3,
       "name": "Chewbacca",
-      "image": "http://icons.iconarchive.com/icons/jonathan-rey/star-wars-characters/256/Chewbacca-icon.png"
+      "image": "http://icons.iconarchive.com/icons/jonathan-rey/star-wars-characters/256/Chewbacca-icon.png",
+      "selected": false
     },
     {
       "id": 4,
       "name": "Luke Skywalker",
-      "image": "https://i.pinimg.com/originals/8b/f1/12/8bf11225e13967cc348ba5df87ae93a0.png"
+      "image": "https://i.pinimg.com/originals/8b/f1/12/8bf11225e13967cc348ba5df87ae93a0.png",
+      "selected": false
     },
     {
       "id": 5,
       "name": "C3PO",
-      "image": "https://i.pinimg.com/originals/5c/ad/c8/5cadc89c2a0eb712211fc6ce9e3b3d86.png"
+      "image": "https://i.pinimg.com/originals/5c/ad/c8/5cadc89c2a0eb712211fc6ce9e3b3d86.png",
+      "selected": false
     },
     {
       "id": 6,
       "name": "Han Solo",
-      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRFrEfNN4oCYddSUQe_BjVV5qb2XR1rIGYxOBTTIjCr8BpcfjNYew"
+      "image": "http://aux.iconspalace.com/uploads/1759819124971394519.png",
+      "selected": false
     },
     {
       "id": 7,
       "name": "R2D2",
-      "image": "http://icons.veryicon.com/png/Movie%20%26%20TV/Star%20Wars%20Characters/R2D2%2001.png"
+      "image": "http://icons.veryicon.com/png/Movie%20%26%20TV/Star%20Wars%20Characters/R2D2%2001.png",
+      "selected": false
     },
     {
       "id": 8,
       "name": "Jawas",
-      "image": "http://files.softicons.com/download/tv-movie-icons/star-wars-characters-icons-by-jonathan-rey/ico/Jawas.ico"
+      "image": "http://icons.iconarchive.com/icons/jonathan-rey/star-wars-characters/256/Jawas-icon.png",
+      "selected": false
     },
     {
       "id": 9,
       "name": "Anakin",
-      "image": "http://icons.iconarchive.com/icons/jonathan-rey/star-wars-characters/256/Anakin-Jedi-01-icon.png"
+      "image": "http://icons.iconarchive.com/icons/jonathan-rey/star-wars-characters/256/Anakin-Jedi-01-icon.png",
+      "selected": false
     },
     {
       "id": 10,
       "name": "Mace Windu",
-      "image": "http://icons.iconarchive.com/icons/jonathan-rey/star-wars-characters/256/Mace-Windu-02-icon.png"
+      "image": "http://icons.iconarchive.com/icons/jonathan-rey/star-wars-characters/256/Mace-Windu-02-icon.png",
+      "selected": false
     },
     {
       "id": 11,
       "name": "Leia",
-      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRiGHK6v1jLUWsvAlJ8MY8Y4VRhDr1_4bPJY63NKNwAoo2fZSYdgw"
+      "image": "https://www.stickpng.com/assets/images/5862b3761aa68e0bf26fa1e5.png",
+      "selected": false
     },
     {
       "id": 12,
       "name": "Jabba the Hut",
-      "image": "http://files.softicons.com/download/tv-movie-icons/star-wars-characters-icons-by-jonathan-rey/png/256x256/Java%20the%20Hutt.png"
+      "image": "http://iconbug.com/data/f8/256/fde579446855b2c35fcb817e46fbed9e.png",
+      "selected": false
     }
   ]
   

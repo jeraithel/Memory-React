@@ -1,0 +1,11 @@
+.score {
+    width: 100%;
+    text-align: center;
+    color: white;
+    font-style: normal;
+}
+
+p {
+    font-style: italic;
+    color: goldenrod;
+}
