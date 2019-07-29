@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/memory-react/static/css/main.74fd6b01.chunk.css",
-    "main.js": "/memory-react/static/js/main.78e6f99a.chunk.js",
-    "main.js.map": "/memory-react/static/js/main.78e6f99a.chunk.js.map",
+    "main.css": "/memory-react/static/css/main.cd3ce070.chunk.css",
+    "main.js": "/memory-react/static/js/main.00aa7e03.chunk.js",
+    "main.js.map": "/memory-react/static/js/main.00aa7e03.chunk.js.map",
     "runtime~main.js": "/memory-react/static/js/runtime~main.7c494fe2.js",
     "runtime~main.js.map": "/memory-react/static/js/runtime~main.7c494fe2.js.map",
-    "static/js/2.6efc73d3.chunk.js": "/memory-react/static/js/2.6efc73d3.chunk.js",
-    "static/js/2.6efc73d3.chunk.js.map": "/memory-react/static/js/2.6efc73d3.chunk.js.map",
+    "static/js/2.4c45e4d4.chunk.js": "/memory-react/static/js/2.4c45e4d4.chunk.js",
+    "static/js/2.4c45e4d4.chunk.js.map": "/memory-react/static/js/2.4c45e4d4.chunk.js.map",
     "index.html": "/memory-react/index.html",
-    "precache-manifest.0b15a05b4c3602028cb089fde32b7818.js": "/memory-react/precache-manifest.0b15a05b4c3602028cb089fde32b7818.js",
+    "precache-manifest.57c9566b728153a8a11de1276aba0fbb.js": "/memory-react/precache-manifest.57c9566b728153a8a11de1276aba0fbb.js",
     "service-worker.js": "/memory-react/service-worker.js",
-    "static/css/main.74fd6b01.chunk.css.map": "/memory-react/static/css/main.74fd6b01.chunk.css.map"
+    "static/css/main.cd3ce070.chunk.css.map": "/memory-react/static/css/main.cd3ce070.chunk.css.map"
   }
 }
